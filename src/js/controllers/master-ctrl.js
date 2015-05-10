@@ -105,4 +105,4 @@ function MasterCtrl($scope, $cookieStore) {
             }
 
         ]  
-}
+};
