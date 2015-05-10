@@ -39,6 +39,7 @@ function MasterCtrl($scope, $cookieStore) {
 
     $scope.options = {
             chart: {
+                /** Other types: stackedAreaChart, multiBarChart, scatterChart */
                 type: 'stackedAreaChart',
                 height: 400,
                 margin : {
