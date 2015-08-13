@@ -1,5 +1,5 @@
 {
-  "name": "visa-dashboard",
+  "name": "rdash-angular",
   "version": "0.0.1",
   "author": "Elliot Hesp",
   "contributors": [
@@ -27,5 +27,13 @@
   },
   "_aerobatic": {
     "appId": "mkk6QnWC"
+  },
+  "_virtualApp": {
+    "appId": "EJymKYrs",
+    "router": [
+      {
+        "module": "webpage"
+      }
+    ]
   }
 }
